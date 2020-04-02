@@ -1,0 +1,25 @@
+body{
+  background: url('https://cdn-image.bisnis.com/posts/2019/02/21/891524/zambromo-1.jpg') no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.satu{
+  width: 800px;
+  height: 400px;
+  border: 2px solid;
+  text-align: right;
+  background-color: white;
+  overflow: scroll;
+}
+p{
+  color: blue;
+  font-size: 20px;
+  font-weight: bolder;
+}
+.dua{
+  color: green;
+  text-align: left;
+}
+.tiga{
+  color: red;
+}
